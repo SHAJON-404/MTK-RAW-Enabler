@@ -1,21 +1,65 @@
-MIT License
+SHAJON PROPRIETARY LICENSE v1.0
+Copyright © 2025 SHAH MAKHDUM SHAJON ツ゚. All rights reserved.
 
-Copyright (c) 2025 SHAH MAKHDUM SHAJON ツ゚
+1. DEFINITIONS
+   “Software” means all source code, binaries, assets, documentation, and any
+   derivatives in this repository.  
+   “Author” means SHAJON.  
+   “Contributor” means any person who submits a Pull Request (“PR”) that the
+   Author merges into the main branch.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. LICENSE GRANT
+   2.1  The Author grants you a non‑exclusive, non‑transferable, revocable
+        license to read the Software solely for personal review.  
+   2.2  **No other rights are granted.** You may NOT use, run, compile, copy,
+        modify, fork, publish, distribute, sublicense, or create derivative
+        works from the Software without the Author’s *prior written consent
+        expressed via an approved Pull Request*.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. CONTRIBUTIONS
+   3.1  First‑time contributors MUST submit code exclusively via a Pull
+        Request. Until that PR is explicitly approved and merged by the
+        Author, the contributor holds **no license** to the Software.  
+   3.2  Upon merge, the Contributor irrevocably assigns to the Author all
+        copyrights and related rights in their contribution. The contribution
+        thereafter becomes part of the Software and is governed by this same
+        license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. PROHIBITED ACTS
+   You SHALL NOT, without explicit permission:
+   • Publish the Software (or any portion) under a different name or brand.  
+   • Host or mirror the Software in another repository or platform.  
+   • Remove or alter copyright, license, or attribution notices.  
+   • Use the Software in commercial or non‑commercial projects, whether public
+     or private.
+
+5. ENFORCEMENT & DMCA
+   Any violation constitutes infringement under 17 U.S.C. § 501. The Author
+   will pursue takedown remedies—including but not limited to GitHub DMCA
+   notices—against any repository or service that hosts or distributes the
+   Software without authorization. Persistent infringement may result in
+   account suspension or legal action.
+
+6. TERMINATION
+   This license terminates automatically if you breach any term herein. Upon
+   termination you must immediately destroy all copies of the Software and
+   cease any use.
+
+7. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+9. GOVERNING LAW
+   This License shall be governed by and construed in accordance with the laws
+   of Bangladesh. Any dispute shall be resolved exclusively in the courts of
+   Dhaka.
+
+END OF TERMS
+
